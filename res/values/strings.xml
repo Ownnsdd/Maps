@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maps</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_friends">FriendsActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="friends_title">Friends</string>
+    <string name="back_btn">back</string>
+    <string name="detail_name">Name:</string>
+    <string name="detail_phone">Phone:</string>
+
+</resources>
